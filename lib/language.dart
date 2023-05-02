@@ -7,7 +7,7 @@ class Languages extends Translations {
   Map<String , Map<String , String >> get keys =>
       {
         'en': {
-          'message':  'What is youe name ?',
+          'message':  'What is your name ?',
           'ans': 'My name is Anil Khandelwal '
         },
         'hi': {
